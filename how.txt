@@ -1,0 +1,54 @@
+how to ask questions in a smart way? 
+
+use of open source has become widespread,¡°Good question!¡± is a strong and sincere compliment.
+
+What we are, unapologetically, is hostile to people who seem to be unwilling to think or to do their own homework before asking questions.
+
+before you aks
+
+1Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+
+2Try to find an answer by searching the Web.
+
+3Try to find an answer by reading the manual.
+
+4Try to find an answer by reading a FAQ.
+
+5Try to find an answer by inspection or experimentation.
+
+6Try to find an answer by asking a skilled friend.
+
+7If you're a programmer, try to find an answer by reading the source code.
+
+Use tactics like doing a Google search on the text of whatever error message you get
+
+Take your time. Do not expect to be able to solve a complicated problem with a few seconds of Googling. Read and understand the FAQs, sit back, relax and give the problem some thought before approaching experts.
+
+diff
+Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all.
+
+Beware of asking the wrong question.
+
+aking it clear that you are able and willing to help in the process of developing the solution is a very good start. 
+
+when you ask
+1Choose your forum carefully
+	the first step, therefore, is to find the right forum. 
+	Know what your topic is! 
+	
+2Stack Overflow
+	Start with a Google search before looking at Stack Exchange
+	If you still didn't find anything, post your question on the one site where it's most on-topic. Use the formatting tools, especially for code, and add tags that are related to the substance of your question
+3Web and IRC forums(£¿)
+	These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
+4As a second step, use project mailing lists
+	a project has both a ¡°user¡± and a ¡°developer¡± (or ¡°hacker¡±) mailing list or Web forum, and you are not hacking on the code, ask in the ¡°user¡± list/forum. 
+5Use meaningful, specific subject headers
+	object-deviation¡± description will help you organize your thinking about the problem in more detail. 
+6Make it easy to reply
+	Finishing your query with ¡°Please send your reply to... ¡± makes it quite unlikely you will get an answer.
+7Write in clear, grammatical, correctly-spelled language
+8Send questions in accessible, standard formats
+	Send plain text mail, not HTML.
+	Never, ever expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel.
+	In Web forums, do not abuse ¡°smiley¡± and ¡°HTML¡± features 
