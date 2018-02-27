@@ -1,2 +1,2 @@
 # CUSUM-CHART
-the master gradution paper
+the master graduation paper
